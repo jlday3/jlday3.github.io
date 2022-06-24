@@ -74,7 +74,7 @@ footer {
 
 
 #homehero { height: 500px;
-            background-image: url(img/IMG_0087.JPG);
+            background-image: url(img/testin.png);
 			background-repeat: no-repeat;
 			background-size: 100% 100%; 
 			margin-top: 95px;
@@ -82,13 +82,13 @@ footer {
 }
 
 #prohero { height: 500px;
-            background-image: url(img/board.png);
+            background-image: url(img/hw1.png);
 			background-repeat: no-repeat;
 			background-size: 100% 100%; 
 			margin-top: 95px;
 }
 #achhero { height: 500px;
-            background-image: url(img/IMG_0077.JPG);
+            background-image: url(img/test2.png);
 			background-repeat: no-repeat;
 			background-size: 100% 100%; 
 			margin-top: 95px;
